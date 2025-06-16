@@ -1,7 +1,7 @@
 # UDVPython
 Здесь Будут питоновские скрипты для проекта
 
-Способ запуска спалиттера -
+Способ запуска сплиттера-
 
 python pcapsplitter.py input.pcap output --mode size --value 10
 
