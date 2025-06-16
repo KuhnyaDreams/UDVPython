@@ -2,14 +2,16 @@
 
 # Capture
 
+Атрибуты для запуска указываются внутри capture.py
 
+запуск 
+python3 capture.py
 
 # Splitter
-Здесь Будут питоновские скрипты для проекта
 
 Способ запуска сплиттера-
 
-python pcapsplitter.py input.pcap output --mode size --value 10
+python3 pcapsplitter.py input.pcap output --mode size --value 10
 
 --mode принимает size time packets
 
