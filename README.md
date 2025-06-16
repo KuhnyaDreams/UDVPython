@@ -1,13 +1,13 @@
 # UDVPython
 
 # Capture
-
+Скрипт для захвата пакетов через Tcpdump <br/>
 Атрибуты для запуска указываются внутри capture.py
 
 запуск через консоль: python3 capture.py
 
 # Splitter
-
+Скрипт для разделения PCAP файла на меньшие файлы <br/>
 Способ запуска сплиттера через консоль: python3 pcapsplitter.py input.pcap output --mode size --value 10
 
 Где "output" директория записи <br/>
