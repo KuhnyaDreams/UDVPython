@@ -12,9 +12,9 @@
 
 Где "output" директория записи <br/>
 
---mode принимает size time packets<br/>
+--mode принимает <br/>size<br/> time<br/> packets<br/>
 
-соответственно --value<br/>
+соответственно --value принимает:<br/>
 
 
 Размер выходящего файла в MB<br/>
