@@ -1,10 +1,10 @@
 # UDVPython
 
-#Capture
+# Capture
 
 
 
-#Splitter
+# Splitter
 Здесь Будут питоновские скрипты для проекта
 
 Способ запуска сплиттера-
